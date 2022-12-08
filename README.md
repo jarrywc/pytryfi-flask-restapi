@@ -1,5 +1,7 @@
 # pytryfi-flask-restapi
 
+Still in testing!!
+
 ## About
 
 A flask REST api to interface pytryfi library (accesses TryFi api via graphql). 
